@@ -35,9 +35,7 @@ body{
 
 }
 #first {
-	text-align: center;
 	margin-top: 11%;
-	margin-bottom: 9%;
 }
 .card .card-body .btn.btn-secondary {
 	background-color: #0B1582;
@@ -46,5 +44,19 @@ body{
 	text-align: center;
 }
 .container .author {
-	color: #7C9898;
+	color: #D6AB03;
+}
+.container .date {
+	margin-top: -20px;
+	color: #D6AB03;
+}
+.container .row .col-xl-4 {
+	margin-top: 16px;
+}
+.container #foot {
+	margin-top: 7%;
+}
+#divider {
+	margin-top: 6%;
+	margin-bottom: 7%;
 }
