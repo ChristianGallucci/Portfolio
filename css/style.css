@@ -62,3 +62,6 @@ body{
 	margin-top: 7%;
 	margin-bottom: 7%;
 }
+.container .row .col-xl-3 {
+	margin-top: 19px;
+}
