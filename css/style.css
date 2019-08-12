@@ -34,3 +34,17 @@ body{
 }.card .card-body .btn.btn-primary {
 
 }
+#first {
+	text-align: center;
+	margin-top: 11%;
+	margin-bottom: 9%;
+}
+.card .card-body .btn.btn-secondary {
+	background-color: #0B1582;
+}
+.container .row .col-md-4 {
+	text-align: center;
+}
+.container .author {
+	color: #7C9898;
+}
