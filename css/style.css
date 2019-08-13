@@ -1,10 +1,11 @@
 @charset "utf-8";
 body{
 	background-color: #F8F8F8;
+	margin-top:10%;
 }
 #myPic{
 	visibility:hidden;
-	margin-top:80px;
+	margin-top:-40px;
 	margin-bottom:20px;
 }
 #greet{
@@ -31,11 +32,6 @@ body{
 }
 .fa.fa-facebook-square {
 	text-decoration: none;
-}.card .card-body .btn.btn-primary {
-
-}
-#first {
-	margin-top: 11%;
 }
 .card .card-body .btn.btn-secondary {
 	background-color: #0B1582;
