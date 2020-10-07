@@ -27,12 +27,30 @@ body{
 
 .fa.fa-instagram {
 	text-decoration: none;
+	font-size:48px;
+	color:orange;
+	margin-right:20px;
 }
-.fa.fa-twitter {
+.fa.fa-linkedin {
 	text-decoration: none;
+	font-size:48px;
+	color:#2CAAE0;
 }
 .fa.fa-facebook-square {
 	text-decoration: none;
+	font-size:48px;
+	color:#3B5998;
+	margin-right:20px;
+}
+
+.fa.fa-facebook-square:hover{
+	color:#526CA3;
+}
+.fa.fa-instagram:hover{
+	color:#DCA84A;
+}
+.fa.fa-linkedin:hover{
+	color:#7DCAEB;
 }
 .card .card-body .btn.btn-secondary {
 	background-color: #0B1582;
